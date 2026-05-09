@@ -1,0 +1,19 @@
+/* Logo styling with the requested dimensions and background */
+#logo {
+  width: 200px;
+  height: 200px;
+  background-image: url('../assets/holberton-logo.jpg');
+  background-size: 200px 200px;
+  background-repeat: no-repeat;
+}
+
+/* Align the button and counter side-by-side */
+button {
+  display: inline-block;
+}
+
+#count {
+  display: inline-block;
+  margin-left: 10px;
+  font-weight: bold;
+}
